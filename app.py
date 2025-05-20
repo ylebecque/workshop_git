@@ -1,3 +1,3 @@
 print("Hello world")
 print("Good bye friends!")
-print("Je travaille directement sur Main ! Ahaha le thug !")
+print("Il ne faut pas travailler sur Main !!!")
